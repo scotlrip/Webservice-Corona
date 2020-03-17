@@ -12,6 +12,8 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
+    "minimist": "^1.2.2",
+    "package-name": "^0.1.0",
     "puppeteer": "^2.1.1"
   }
 }
